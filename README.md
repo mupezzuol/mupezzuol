@@ -6,11 +6,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mupezzuol)](https://twitter.com/mupezzuol)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murillo.pezzuol@gmail.com)](mailto:murillo.pezzuol@gmail.com)
 
-## <samp>Hi there!</samp> 👋
+## <samp>Hi there!</samp> 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-<samp>I'm Murillo Pezzuol, I'm a double citizen (EU-Citizen), Brazilian 🇧🇷 and Italian 🇮🇹 , currently I'm a Software Engineer in London 🇬🇧 , passionate about solving problems with technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">💡
+<samp>I'm Murillo Pezzuol, I'm a double citizen (EU-Citizen), Brazilian 🇧🇷 and Italian 🇮🇹 , currently I'm a Software Engineer in London 🇬🇧 , passionate about solving problems with technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<samp>Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀 &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<samp>Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
 
 - 🏡 &nbsp; <samp>I love being with my family and friends, they are everything to me.</samp>
 - ✈️ &nbsp; <samp>I love to travel and get to know new places and cultures.</samp>
