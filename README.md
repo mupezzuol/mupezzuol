@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mupezzuol)](https://twitter.com/mupezzuol)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murillo.pezzuol@gmail.com)](mailto:murillo.pezzuol@gmail.com)
 
-## <samp>Hello World!</samp> <img src="https://media.giphy.com/media/eewkGM4VWyqZzRRumr/giphy.gif" width="22px">
+## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px">
 
 <samp>I'm Murillo Pezzuol, I'm a double citizen (EU-Citizen), Brazilian 🇧🇷 and Italian 🇮🇹 , currently I'm a Software Engineer <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif" width="30px"> in London 🇬🇧 , passionate about solving problems with technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
 
