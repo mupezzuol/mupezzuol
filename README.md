@@ -1,10 +1,9 @@
 # <samp>Murillo Pezzuol</samp><img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="30px">
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mupezzuol)](https://github.com/mupezzuol)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mupezzuol/)](https://www.linkedin.com/in/mupezzuol/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mupezzuol)](https://www.instagram.com/mupezzuol)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mupezzuol)](https://twitter.com/mupezzuol)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murillo.pezzuol@gmail.com)](mailto:murillo.pezzuol@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/mupezzuol/)](https://www.linkedin.com/in/mupezzuol/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/mupezzuol)](https://www.instagram.com/mupezzuol)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C&link=https://twitter.com/mupezzuol)](https://twitter.com/mupezzuol)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:murillo.pezzuol@gmail.com)](mailto:murillo.pezzuol@gmail.com)
 
 ## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px">
 
