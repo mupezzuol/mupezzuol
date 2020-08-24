@@ -7,9 +7,9 @@
 
 ## Hi there! 👋
 
-- :house_with_garden: I love being with my family and friends, they are everything to me.
-- :sunrise: I love the beach, getting to know new places, cultures and am a nature lover in its most beautiful form.
-- :soccer: Passionate about football.
-- :books: Find out more about my university studies, courses, certifications and more. `My academic life` [__here__](https://github.com/mupezzuol/list-of-courses-certifications)
+- :house_with_garden:  I love being with my family and friends, they are everything to me.
+- :airplane:  I love to travel and get to know new places and cultures.
+- :soccer:  Passionate about football.
+- :books:  Find out more about my university studies, courses, certifications and more. `My academic life` [__here__](https://github.com/mupezzuol/list-of-courses-certifications)
 
 ---
