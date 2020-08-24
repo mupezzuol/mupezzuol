@@ -8,7 +8,9 @@
 
 ## <samp>Hi there!</samp> 👋
 
-<samp>Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀 &nbsp; ⭐
+<samp>I'm Murillo Pezzuol, I'm a double citizen (EU-Citizen), Brazilian 🇧🇷 and Italian 🇮🇹, currently I'm a Software Engineer in London 🇬🇧, passionate about solving problems with technology and creating different solutions.</samp> &nbsp; 💡
+
+<samp>Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
 
 - 🏡 &nbsp; <samp>I love being with my family and friends, they are everything to me.</samp>
 - ✈️ &nbsp; <samp>I love to travel and get to know new places and cultures.</samp>
