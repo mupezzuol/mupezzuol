@@ -1,4 +1,4 @@
-# <samp>Murillo Pezzuol</samp> :man_technologist:
+# <samp>Murillo Pezzuol</samp><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mupezzuol)](https://github.com/mupezzuol)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mupezzuol/)](https://www.linkedin.com/in/mupezzuol/)
@@ -6,9 +6,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mupezzuol)](https://twitter.com/mupezzuol)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murillo.pezzuol@gmail.com)](mailto:murillo.pezzuol@gmail.com)
 
-## <samp>Hi there!</samp> 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## <samp>Hi there!</samp> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="22px">
 
-<samp>I'm Murillo Pezzuol, I'm a double citizen (EU-Citizen), Brazilian 🇧🇷 and Italian 🇮🇹 , currently I'm a Software Engineer in London 🇬🇧 , passionate about solving problems with technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<samp>I'm Murillo Pezzuol, I'm a double citizen (EU-Citizen), Brazilian 🇧🇷 and Italian 🇮🇹 , currently I'm a Software Engineer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> in London 🇬🇧 , passionate about solving problems with technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
 
 <samp>Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
 
