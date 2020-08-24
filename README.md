@@ -7,11 +7,11 @@
 
 ## Hi there! 👋
 
-Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things. :star:
+Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things. 💻🚀⭐
 
-- :house_with_garden: I love being with my family and friends, they are everything to me.
-- :airplane: I love to travel and get to know new places and cultures.
-- :soccer: Passionate about football.
-- :books: Find out more about my university studies, courses, certifications and more. `My academic life` [__here__](https://github.com/mupezzuol/list-of-courses-certifications) :mortar_board:
+- 🏡 I love being with my family and friends, they are everything to me.
+- ✈️ I love to travel and get to know new places and cultures.
+- ⚽ Passionate about football.
+- 📚 Find out more about my university studies, courses, certifications and more. `My academic life` [__here__](https://github.com/mupezzuol/list-of-courses-certifications) 🎓👨‍🎓
 
 ---
