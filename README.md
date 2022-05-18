@@ -1,8 +1,8 @@
 # <samp>Murillo Pezzuol</samp><img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="30px">
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/mupezzuol/)](https://www.linkedin.com/in/mupezzuol/)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=flat-square&logo=youtube&logoColor=white&color=071A2C&link=https://www.youtube.com/c/MurilloPezzuol)](https://www.youtube.com/c/MurilloPezzuol)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/mupezzuol)](https://www.instagram.com/mupezzuol)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C&link=https://twitter.com/mupezzuol)](https://twitter.com/mupezzuol)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/mupezzuol/)](https://www.linkedin.com/in/mupezzuol/)
 
 ## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px">
 
