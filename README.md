@@ -7,13 +7,11 @@
 
 ## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">
 
-<samp>I'm Murillo Pezzuol and a EU-citizen, Brazilian 🇧🇷 and Italian 🇮🇹 , currently I'm a Software Engineer <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif" width="30px" height="30px"> in London 🇬🇧 , passionate about solving problems with technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
+<samp>I'm Murillo Pezzuol and a EU-citizen, Brazilian 🇧🇷 and Italian 🇮🇹 , currently I'm a Software Engineer 👨‍💻 in London 🇬🇧 , passionate about solving problems with technology and creating different solutions.
 
-<samp>I'm also a content creator, I talk about technology, programming, soft skills, career challenges, tips and more. I always try to help people as much as possible, because a phrase I carry with me is "people need people". Feel free to access my links [__here!__](https://beacons.ai/mupezzuol/)</samp>
-
-[__here__](https://github.com/mupezzuol/list-of-courses-certifications)
-
-<samp>Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
+<samp>I'm also a content creator, I talk about technology, programming, soft skills, career challenges, tips and more. I always try to help people as much as possible, because a phrase I carry with me is "people need people".</samp>
+  
+<samp>Feel free to access my link and discover much more [__here!__](https://beacons.ai/mupezzuol/)</samp>&nbsp; 💻 &nbsp; 🚀
 
 - 👨‍💻 &nbsp; <samp>I love helping people with the content I share.</samp>
 - 🏡 &nbsp; <samp>I love being with my family and friends, they are everything to me.</samp>
