@@ -13,7 +13,7 @@
 - 💻&nbsp;<samp>I love helping people with the content I share.</samp>
 - 🏡&nbsp;<samp>I love being with my family and friends, they are everything to me.</samp>
 - ✈️&nbsp;<samp>I love to travel and get to know new places and cultures.</samp>
-- ⚽&nbsp;<samp>Passionate about football, __São Paulo Futebol Clube__ 🔴⚫️⚪️</samp>
+- ⚽&nbsp;<samp>Passionate about football, __São Paulo Futebol Clube (Brazil)__ 🔴⚫️⚪️</samp>
 - 👨‍🎓&nbsp;<samp>My academic life [__here!__](https://github.com/mupezzuol/list-of-courses-certifications)</samp>
 
 ---
