@@ -6,7 +6,7 @@
 
 ## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">
 
-<samp>I'm Murillo Pezzuol and an EU citizen, __Brazilian__ 🇧🇷 and __Italian__ 🇮🇹, currently I'm a __Software Engineer in London__ 🇬🇧, passionate about solving problems with technology and creating different solutions.
+<samp>I'm Murillo Pezzuol and an EU citizen, __Brazilian__ 🇧🇷 and __Italian__ 🇮🇹, currently I'm a __Senior Software Engineer in London__ 🇬🇧, passionate about solving problems with technology and creating different solutions.
 
 <samp>I'm also a __content creator__, I talk about technology, programming, soft skills, career challenges, tips and more. I always try to help people as much as possible, because a phrase I carry with me is __"people need people".__</samp>&nbsp;👨‍💻&nbsp;🚀
 
